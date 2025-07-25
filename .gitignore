@@ -1,0 +1,6 @@
+*.docx
+.vscode/
+.idea/
+*.pdf
+__pycache__/
+.history
