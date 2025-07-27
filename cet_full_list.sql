@@ -5481,7 +5481,7 @@ INSERT INTO `cet` VALUES (2730, 21, NULL, 'ongoing', '进行的', NULL, NULL);
 
 INSERT INTO `cet` VALUES (2731, 21, NULL, 'pledge', '保证、誓言', NULL, NULL);
 
-INSERT INTO `cet` VALUES (2732, 21, NULL, 'rage', '大怒、狂怒', NULL, 'people: personality');
+INSERT INTO `cet` VALUES (2732, 21, NULL, 'rage', '狂怒', NULL, 'people: personality');
 
 INSERT INTO `cet` VALUES (2733, 21, NULL, 'refrigerator', '冰箱', NULL, NULL);
 
