@@ -2910,7 +2910,7 @@ INSERT INTO `cet` VALUES (1444, 77, NULL, 'mission', '任务、使命', NULL, '�
 
 INSERT INTO `cet` VALUES (1445, 77, NULL, 'perceive', '察觉、理解', NULL, '动作行为', '心理活动');
 
-INSERT INTO `cet` VALUES (1446, 77, NULL, 'preview', '预告、试映', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1446, 77, NULL, 'preview', '预览', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1447, 77, NULL, 'undergraduate', '本科的、本科生', NULL, '教育学习', NULL);
 
