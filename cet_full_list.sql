@@ -3408,7 +3408,7 @@ INSERT INTO `cet` VALUES (1693, 58, NULL, 'ingredient', '成分', NULL, '食物�
 
 INSERT INTO `cet` VALUES (1694, 58, NULL, 'injure', '使受伤、损害', NULL, '动作行为', '使动与影响');
 
-INSERT INTO `cet` VALUES (1695, 58, '★', 'mar', '毁坏、破坏', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1695, 58, '★', 'mar', '损污', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1696, 58, NULL, 'maximum', '最大的', NULL, '抽象概念', '数量与程度');
 
