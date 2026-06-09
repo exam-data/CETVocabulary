@@ -3238,7 +3238,7 @@ INSERT INTO `cet` VALUES (1608, 64, NULL, 'contrary', '相反的、对方的', N
 
 INSERT INTO `cet` VALUES (1609, 64, NULL, 'desert', '遗弃、沙漠', NULL, '自然环境', NULL);
 
-INSERT INTO `cet` VALUES (1610, 64, '★', 'haven', '避难所、庇护', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1610, 64, '★', 'haven', '安心处', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1611, 64, NULL, 'highlight', '使显著、强调', NULL, '动作行为', '使动与影响');
 
