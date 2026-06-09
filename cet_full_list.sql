@@ -830,7 +830,7 @@ INSERT INTO `cet` VALUES (404, 410, NULL, 'involve', '涉及', NULL, '动作行�
 
 INSERT INTO `cet` VALUES (405, 410, NULL, 'raise', '举起、提出', 'raize', '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (406, 409, NULL, 'online', '在线的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (406, 409, NULL, 'online', '在线', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (407, 404, NULL, 'stay', '保持、停留', NULL, '动作行为', '起始与终止');
 
