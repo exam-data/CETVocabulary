@@ -2298,7 +2298,7 @@ INSERT INTO `cet` VALUES (1138, 111, NULL, 'exchange', '交换', NULL, '商业�
 
 INSERT INTO `cet` VALUES (1139, 111, NULL, 'ship', '船舶、装运', NULL, '交通旅行', NULL);
 
-INSERT INTO `cet` VALUES (1140, 111, NULL, 'statistic', '统计数值', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1140, 111, NULL, 'statistic', '统计', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1141, 110, NULL, 'admit', '承认', NULL, '动作行为', '其他动作');
 
