@@ -3146,7 +3146,7 @@ INSERT INTO `cet` VALUES (1562, 68, NULL, 'resume', '重新开始、恢复、简
 
 INSERT INTO `cet` VALUES (1563, 68, NULL, 'season', '季节', NULL, '时间日期', NULL);
 
-INSERT INTO `cet` VALUES (1564, 68, '★', 'slash', '斜线、猛砍', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1564, 68, '★', 'slash', '斜杠、削减、砍', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1565, 68, NULL, 'volume', '容积、音量（一）卷', NULL, '科学技术', NULL);
 
