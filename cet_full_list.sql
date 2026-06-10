@@ -3434,7 +3434,7 @@ INSERT INTO `cet` VALUES (1706, 58, NULL, 'superior', '优良的、较……多�
 
 INSERT INTO `cet` VALUES (1707, 58, NULL, 'tackle', '处理、应付', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (1708, 58, NULL, 'teen', '青少年的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1708, 58, NULL, 'teen', '青少年', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1709, 58, NULL, 'tone', '音调、腔调', NULL, '情感心理', NULL);
 
