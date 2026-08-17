@@ -8144,7 +8144,7 @@ INSERT INTO `cet` VALUES (4061, 6, '★', 'manuscript', '手稿', NULL, '教育�
 
 INSERT INTO `cet` VALUES (4062, 6, '★', 'maritime', '海的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4063, 6, NULL, 'marvel', '惊异', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4063, 6, NULL, 'marvel', '奇迹、惊叹', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4064, 6, NULL, 'metro', '地铁', NULL, NULL, NULL);
 
