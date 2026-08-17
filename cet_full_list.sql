@@ -5974,7 +5974,7 @@ INSERT INTO `cet` VALUES (2976, 17, NULL, 'ratio', '比率', NULL, '抽象概念
 
 INSERT INTO `cet` VALUES (2977, 17, NULL, 'refresh', '提神', NULL, '动作行为', '使动与影响');
 
-INSERT INTO `cet` VALUES (2978, 17, '★', 'sanctuary', '圣所', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2978, 17, '★', 'sanctuary', '保护区、避难所', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2979, 17, '★', 'scrutiny', '监视', NULL, '动作行为', '评价与判断');
 
