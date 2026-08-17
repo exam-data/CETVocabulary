@@ -4618,7 +4618,7 @@ INSERT INTO `cet` VALUES (2298, 32, NULL, 'asleep', '睡着', NULL, '健康医�
 
 INSERT INTO `cet` VALUES (2299, 32, NULL, 'behalf', '代表', NULL, '人类与社会', NULL);
 
-INSERT INTO `cet` VALUES (2300, 32, NULL, 'breakthrough', '关键问题的解决', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2300, 32, NULL, 'breakthrough', '突破', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2301, 32, NULL, 'cast', '投射、铸造', NULL, '动作行为', '身体动作');
 
