@@ -7782,7 +7782,7 @@ INSERT INTO `cet` VALUES (3880, 7, '★', 'console', '安慰、控制台', NULL,
 
 INSERT INTO `cet` VALUES (3881, 7, NULL, 'corps', '兵团、军团', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (3882, 7, '★', 'crunch', '关键时刻', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3882, 7, '★', 'crunch', '嘎吱作响、关键时刻', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3883, 7, NULL, 'crush', '压碎', NULL, '动作行为', '身体动作');
 
