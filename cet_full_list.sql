@@ -7110,7 +7110,7 @@ INSERT INTO `cet` VALUES (3544, 10, NULL, 'handwriting', '笔迹', NULL, '教育
 
 INSERT INTO `cet` VALUES (3545, 10, NULL, 'haul', '拖、拉', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (3546, 10, NULL, 'haunt', '常到、徘徊', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3546, 10, NULL, 'haunt', '不断困扰', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3547, 10, NULL, 'hell', '地狱', NULL, '文化宗教', NULL);
 
