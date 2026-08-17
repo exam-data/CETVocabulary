@@ -7976,7 +7976,7 @@ INSERT INTO `cet` VALUES (3977, 7, NULL, 'textile', '纺织品', NULL, '科学�
 
 INSERT INTO `cet` VALUES (3978, 7, NULL, 'toast', '烤、烤面包', NULL, '食物营养', NULL);
 
-INSERT INTO `cet` VALUES (3979, 7, '★', 'tournament', '比赛', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3979, 7, '★', 'tournament', '锦标赛', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3980, 7, '★', 'ultra', '超', NULL, NULL, NULL);
 
