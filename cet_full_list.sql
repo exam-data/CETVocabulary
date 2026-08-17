@@ -5870,7 +5870,7 @@ INSERT INTO `cet` VALUES (2924, 18, NULL, 'slim', '苗条的', NULL, '人类与�
 
 INSERT INTO `cet` VALUES (2925, 18, NULL, 'sociology', '社会学', NULL, '教育学习', NULL);
 
-INSERT INTO `cet` VALUES (2926, 18, NULL, 'surf', '冲浪', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2926, 18, NULL, 'surf', '冲浪、上网', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2927, 18, '★', 'surpass', '超越', NULL, '动作行为', '变化趋势');
 
