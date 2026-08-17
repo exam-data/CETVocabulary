@@ -6970,7 +6970,7 @@ INSERT INTO `cet` VALUES (3474, 11, NULL, 'sphere', '球', NULL, '科学技术',
 
 INSERT INTO `cet` VALUES (3475, 11, NULL, 'stadium', '体育场', NULL, '运动娱乐', NULL);
 
-INSERT INTO `cet` VALUES (3476, 11, '★', 'tenure', '任期', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3476, 11, '★', 'tenure', '任期、终身职位', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3477, 11, NULL, 'thirteen', '十三', NULL, '时间日期', NULL);
 
