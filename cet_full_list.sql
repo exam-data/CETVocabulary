@@ -3852,7 +3852,7 @@ INSERT INTO `cet` VALUES (1915, 47, NULL, 'dismiss', '解散', NULL, '动作行�
 
 INSERT INTO `cet` VALUES (1916, 47, NULL, 'gallon', '加仑', NULL, '科学技术', NULL);
 
-INSERT INTO `cet` VALUES (1917, 47, NULL, 'intake', '吸入', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1917, 47, NULL, 'intake', '摄入', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1918, 47, NULL, 'lonely', '孤独地', NULL, '情感心理', NULL);
 
