@@ -7970,7 +7970,7 @@ INSERT INTO `cet` VALUES (3974, 7, NULL, 'swear', '赌咒、发誓', NULL, '动�
 
 INSERT INTO `cet` VALUES (3975, 7, NULL, 'swift', '迅速的、雨燕', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (3976, 7, '★', 'synonym', '近义词', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3976, 7, '★', 'synonym', '同义词、近义词', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3977, 7, NULL, 'textile', '纺织品', NULL, '科学技术', NULL);
 
