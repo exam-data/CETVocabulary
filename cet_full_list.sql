@@ -5478,7 +5478,7 @@ INSERT INTO `cet` VALUES (2728, 21, '★', 'merge', '合并', NULL, '动作行�
 
 INSERT INTO `cet` VALUES (2729, 21, NULL, 'moderate', '温和的、适度的', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (2730, 21, NULL, 'ongoing', '进行的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2730, 21, NULL, 'ongoing', '进行中的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2731, 21, NULL, 'pledge', '保证、誓言', NULL, '动作行为', '社交交互');
 
