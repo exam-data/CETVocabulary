@@ -7924,7 +7924,7 @@ INSERT INTO `cet` VALUES (3951, 7, '★', 'radiate', '辐射、放射', NULL, '�
 
 INSERT INTO `cet` VALUES (3952, 7, NULL, 'rag', '破布', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (3953, 7, '★', 'rattle', '喋喋不休、使恼火', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3953, 7, '★', 'rattle', '嗒嗒声、使慌张', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3954, 7, '★', 'refund', '退款', NULL, '商业经济', NULL);
 
