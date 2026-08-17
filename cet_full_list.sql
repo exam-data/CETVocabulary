@@ -7146,7 +7146,7 @@ INSERT INTO `cet` VALUES (3562, 10, '★', 'morale', '士气', NULL, NULL, NULL)
 
 INSERT INTO `cet` VALUES (3563, 10, NULL, 'namely', '即', NULL, '抽象概念', '逻辑与关系');
 
-INSERT INTO `cet` VALUES (3564, 10, '★', 'obsess', '困扰', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3564, 10, '★', 'obsess', '着迷、困扰', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3565, 10, '★', 'oppress', '压迫', NULL, '动作行为', '身体动作');
 
