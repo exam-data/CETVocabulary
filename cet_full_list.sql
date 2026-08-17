@@ -3910,7 +3910,7 @@ INSERT INTO `cet` VALUES (1944, 46, NULL, 'intense', '强烈的、热烈的', NU
 
 INSERT INTO `cet` VALUES (1945, 46, NULL, 'intensive', '密集的', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (1946, 46, '★', 'jack', '千斤顶、男人、插座', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1946, 46, '★', 'jack', '千斤顶、插座', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1947, 46, NULL, 'load', '装货、装载', NULL, '动作行为', '身体动作');
 
