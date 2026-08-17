@@ -8128,7 +8128,7 @@ INSERT INTO `cet` VALUES (4053, 6, '★', 'inventory', '详细目录、清点', 
 
 INSERT INTO `cet` VALUES (4054, 6, '★', 'jargon', '行话', NULL, '文化宗教', NULL);
 
-INSERT INTO `cet` VALUES (4055, 6, NULL, 'jetlag', '时差导致的生理节奏失调', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4055, 6, NULL, 'jetlag', '倒时差', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4056, 6, NULL, 'jungle', '丛林', NULL, '自然环境', NULL);
 
