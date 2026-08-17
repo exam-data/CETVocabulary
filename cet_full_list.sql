@@ -5060,7 +5060,7 @@ INSERT INTO `cet` VALUES (2519, 26, '★', 'hypothesis', '假设', NULL, '抽象
 
 INSERT INTO `cet` VALUES (2520, 26, '★', 'incorporate', '合并', NULL, '动作行为', '变化趋势');
 
-INSERT INTO `cet` VALUES (2521, 26, NULL, 'invariably', '不变地', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2521, 26, NULL, 'invariably', '总是', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2522, 26, NULL, 'lag', '落后', NULL, '动作行为', '身体动作');
 
