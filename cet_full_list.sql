@@ -7834,7 +7834,7 @@ INSERT INTO `cet` VALUES (3906, 7, NULL, 'flesh', '肉', NULL, '人类与社会'
 
 INSERT INTO `cet` VALUES (3907, 7, NULL, 'fork', '叉', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (3908, 7, '★', 'frantic', '疯狂的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3908, 7, '★', 'frantic', '发狂的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3909, 7, NULL, 'furnace', '炉子', NULL, '日常生活', NULL);
 
