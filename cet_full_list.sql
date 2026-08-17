@@ -8060,7 +8060,7 @@ INSERT INTO `cet` VALUES (4019, 6, '★', 'cricket', '板球、蟋蟀', NULL, '�
 
 INSERT INTO `cet` VALUES (4020, 6, '★', 'cynical', '愤世嫉俗的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4021, 6, '★', 'diesel', '柴油机', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4021, 6, '★', 'diesel', '柴油、柴油机', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4022, 6, '★', 'diffuse', '弥漫', NULL, '动作行为', '变化趋势');
 
