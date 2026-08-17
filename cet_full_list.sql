@@ -7170,7 +7170,7 @@ INSERT INTO `cet` VALUES (3574, 10, '★', 'pottery', '陶器', NULL, '日常生
 
 INSERT INTO `cet` VALUES (3575, 10, NULL, 'procession', '队伍', NULL, '运动娱乐', NULL);
 
-INSERT INTO `cet` VALUES (3576, 10, NULL, 'quake', '地震', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3576, 10, NULL, 'quake', '颤抖', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3577, 10, '★', 'recur', '重现', NULL, '动作行为', '其他动作');
 
