@@ -5004,7 +5004,7 @@ INSERT INTO `cet` VALUES (2491, 27, NULL, 'margin', '利润、边缘', NULL, '�
 
 INSERT INTO `cet` VALUES (2492, 27, NULL, 'murder', '谋杀', NULL, '动作行为', '其他动作');
 
-INSERT INTO `cet` VALUES (2493, 27, '★', 'navigate', '航行', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2493, 27, '★', 'navigate', '航行、导航', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2494, 27, NULL, 'oneself', '自己', NULL, '人类与社会', NULL);
 
