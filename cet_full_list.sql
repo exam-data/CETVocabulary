@@ -8164,7 +8164,7 @@ INSERT INTO `cet` VALUES (4071, 6, NULL, 'okay', '可以、好的', NULL, '抽�
 
 INSERT INTO `cet` VALUES (4072, 6, '★', 'optimum', '最佳的', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (4073, 6, '★', 'ordeal', '严酷的考验', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4073, 6, '★', 'ordeal', '磨难', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4074, 6, '★', 'pact', '协定', NULL, '政治法律', NULL);
 
