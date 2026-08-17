@@ -4162,7 +4162,7 @@ INSERT INTO `cet` VALUES (2070, 41, NULL, 'suburb', '市郊', NULL, '空间地�
 
 INSERT INTO `cet` VALUES (2071, 41, NULL, 'sweet', '甜的', NULL, '食物营养', NULL);
 
-INSERT INTO `cet` VALUES (2072, 41, NULL, 'utility', '实用', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2072, 41, NULL, 'utility', '实用、公共设施', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2073, 41, NULL, 'verb', '动词', NULL, '教育学习', NULL);
 
