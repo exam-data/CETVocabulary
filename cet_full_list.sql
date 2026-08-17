@@ -3872,7 +3872,7 @@ INSERT INTO `cet` VALUES (1925, 47, NULL, 'thief', '小偷', NULL, '政治法律
 
 INSERT INTO `cet` VALUES (1926, 47, NULL, 'tutor', '导师', NULL, '职业工作', NULL);
 
-INSERT INTO `cet` VALUES (1927, 47, NULL, 'unemployed', '失业者', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (1927, 47, NULL, 'unemployed', '失业的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (1928, 46, NULL, 'accompany', '陪伴、为……伴奏', NULL, '动作行为', '其他动作');
 
