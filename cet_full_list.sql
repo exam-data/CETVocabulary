@@ -7632,7 +7632,7 @@ INSERT INTO `cet` VALUES (3805, 8, NULL, 'lease', '租约', NULL, '商业经济'
 
 INSERT INTO `cet` VALUES (3806, 8, '★', 'limp', '跛行、柔软的', NULL, '动作行为', '其他动作');
 
-INSERT INTO `cet` VALUES (3807, 8, NULL, 'literal', '文字的、逐字的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3807, 8, NULL, 'literal', '字面的、逐字的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3808, 8, NULL, 'massage', '按摩', NULL, NULL, NULL);
 
