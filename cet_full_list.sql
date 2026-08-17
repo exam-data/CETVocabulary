@@ -7324,7 +7324,7 @@ INSERT INTO `cet` VALUES (3651, 9, '★', 'dole', '失业救济金', NULL, NULL,
 
 INSERT INTO `cet` VALUES (3652, 9, NULL, 'dot', '点缀', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (3653, 9, '★', 'dub', '配音', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3653, 9, '★', 'dub', '称为、配音', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3654, 9, '★', 'eccentric', '古怪的', NULL, '情感心理', NULL);
 
