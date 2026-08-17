@@ -5906,7 +5906,7 @@ INSERT INTO `cet` VALUES (2942, 17, NULL, 'chest', '胸', NULL, '人类与社会
 
 INSERT INTO `cet` VALUES (2943, 17, '★', 'coincide', '一致', NULL, '动作行为', '其他动作');
 
-INSERT INTO `cet` VALUES (2944, 17, '★', 'conserve', '保存、节省', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2944, 17, '★', 'conserve', '保护、节约', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2945, 17, '★', 'constrain', '限制', NULL, '动作行为', '使动与影响');
 
