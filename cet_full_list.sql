@@ -8074,7 +8074,7 @@ INSERT INTO `cet` VALUES (4026, 6, NULL, 'elbow', '手肘', NULL, '人类与社�
 
 INSERT INTO `cet` VALUES (4027, 6, '★', 'emulate', '效法', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4028, 6, '★', 'enact', '扮演', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4028, 6, '★', 'enact', '实行、扮演', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4029, 6, '★', 'endorse', '支持', NULL, '动作行为', '身体动作');
 
