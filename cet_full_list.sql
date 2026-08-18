@@ -8298,7 +8298,7 @@ INSERT INTO `cet` VALUES (4138, 5, NULL, 'ash', '灰', NULL, '自然环境', NUL
 
 INSERT INTO `cet` VALUES (4139, 5, NULL, 'ashore', '上岸', NULL, '空间地点', NULL);
 
-INSERT INTO `cet` VALUES (4140, 5, '★', 'assortment', '杂烩', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4140, 5, '★', 'assortment', '什锦', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4141, 5, NULL, 'awesome', '可怕的', NULL, NULL, NULL);
 
