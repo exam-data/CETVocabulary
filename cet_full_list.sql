@@ -8534,7 +8534,7 @@ INSERT INTO `cet` VALUES (4256, 5, NULL, 'stiff', '硬的', NULL, '抽象概念'
 
 INSERT INTO `cet` VALUES (4257, 5, '★', 'sturdy', '坚固的', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (4258, 5, '★', 'superintendent', '监督人', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4258, 5, '★', 'superintendent', '负责人', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4259, 5, '★', 'swamp', '沼泽', NULL, '自然环境', NULL);
 
