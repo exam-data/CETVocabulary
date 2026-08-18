@@ -8334,7 +8334,7 @@ INSERT INTO `cet` VALUES (4156, 5, NULL, 'conscientious', '认真的、负责的
 
 INSERT INTO `cet` VALUES (4157, 5, NULL, 'converse', '交谈、谈话', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4158, 5, NULL, 'cornerstone', '奠基石', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4158, 5, NULL, 'cornerstone', '基石', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4159, 5, NULL, 'cosmos', '宇宙', NULL, NULL, NULL);
 
