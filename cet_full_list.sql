@@ -8352,7 +8352,7 @@ INSERT INTO `cet` VALUES (4165, 5, NULL, 'crystal', '水晶', NULL, '科学技�
 
 INSERT INTO `cet` VALUES (4166, 5, '★', 'culminate', '达到高潮、结束', NULL, '动作行为', '起始与终止');
 
-INSERT INTO `cet` VALUES (4167, 5, '★', 'cult', '个人崇拜', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4167, 5, '★', 'cult', '邪教、狂热崇拜', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4168, 5, NULL, 'cupboard', '碗橱', NULL, '日常生活', NULL);
 
