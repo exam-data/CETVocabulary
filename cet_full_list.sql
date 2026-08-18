@@ -8406,7 +8406,7 @@ INSERT INTO `cet` VALUES (4192, 5, NULL, 'germ', '细菌、胚芽', NULL, '健�
 
 INSERT INTO `cet` VALUES (4193, 5, '★', 'glide', '滑翔', NULL, '动作行为', '其他动作');
 
-INSERT INTO `cet` VALUES (4194, 5, '★', 'hectic', '兴奋的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4194, 5, '★', 'hectic', '繁忙的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4195, 5, NULL, 'heir', '继承人', NULL, '人类与社会', NULL);
 
