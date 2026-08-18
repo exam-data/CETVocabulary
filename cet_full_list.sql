@@ -8662,7 +8662,7 @@ INSERT INTO `cet` VALUES (4320, 4, NULL, 'compass', '指南针', NULL, '科学�
 
 INSERT INTO `cet` VALUES (4321, 4, '★', 'compassion', '同情', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (4322, 4, '★', 'conspire', '阴谋', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4322, 4, '★', 'conspire', '密谋', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4323, 4, '★', 'cosmetic', '化妆品', NULL, NULL, NULL);
 
