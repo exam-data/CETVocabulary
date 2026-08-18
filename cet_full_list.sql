@@ -7126,7 +7126,7 @@ INSERT INTO `cet` VALUES (3552, 10, NULL, 'invalid', '无效的', NULL, '健康�
 
 INSERT INTO `cet` VALUES (3553, 10, NULL, 'kiss', '亲吻', NULL, '动作行为', '其他动作');
 
-INSERT INTO `cet` VALUES (3554, 10, '★', 'landmark', '里程碑', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3554, 10, '★', 'landmark', '地标、里程碑', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3555, 10, NULL, 'layoff', '临时解雇、操作停止', NULL, '职业工作', NULL);
 
