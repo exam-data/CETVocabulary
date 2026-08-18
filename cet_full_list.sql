@@ -8318,7 +8318,7 @@ INSERT INTO `cet` VALUES (4148, 5, '★', 'canoe', '独木舟', NULL, '运动娱
 
 INSERT INTO `cet` VALUES (4149, 5, NULL, 'cement', '水泥', NULL, '科学技术', NULL);
 
-INSERT INTO `cet` VALUES (4150, 5, '★', 'censor', '检查', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4150, 5, '★', 'censor', '审查、审查员', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4151, 5, NULL, 'chimney', '烟囱', NULL, '日常生活', NULL);
 
