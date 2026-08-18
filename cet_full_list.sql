@@ -6724,7 +6724,7 @@ INSERT INTO `cet` VALUES (3351, 12, NULL, 'lemon', '柠檬', NULL, '食物营养
 
 INSERT INTO `cet` VALUES (3352, 12, NULL, 'liberty', '自由', NULL, '政治法律', NULL);
 
-INSERT INTO `cet` VALUES (3353, 12, NULL, 'livelihood', '生活', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3353, 12, NULL, 'livelihood', '生计', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3354, 12, NULL, 'mammal', '哺乳动物', NULL, '自然环境', NULL);
 
