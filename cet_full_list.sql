@@ -8254,7 +8254,7 @@ INSERT INTO `cet` VALUES (4116, 6, NULL, 'superb', '极好的', NULL, '情感心
 
 INSERT INTO `cet` VALUES (4117, 6, NULL, 'supper', '晚餐', NULL, '食物营养', NULL);
 
-INSERT INTO `cet` VALUES (4118, 6, NULL, 'swipe', '猛打', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4118, 6, NULL, 'swipe', '滑动、猛打', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4119, 6, '★', 'tilt', '倾斜', NULL, '动作行为', '身体动作');
 
