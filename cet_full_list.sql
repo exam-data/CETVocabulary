@@ -6002,7 +6002,7 @@ INSERT INTO `cet` VALUES (2990, 17, NULL, 'tomato', '西红柿', NULL, '食物�
 
 INSERT INTO `cet` VALUES (2991, 17, NULL, 'turkey', '火鸡', NULL, '食物营养', NULL);
 
-INSERT INTO `cet` VALUES (2992, 17, '★', 'turtle', '捕龟', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2992, 17, '★', 'turtle', '龟', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2993, 16, NULL, 'accordingly', '相应地、因此', NULL, '抽象概念', '逻辑与关系');
 
