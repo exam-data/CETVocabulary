@@ -4352,7 +4352,7 @@ INSERT INTO `cet` VALUES (2165, 37, NULL, 'expertise', '专业知识', 'expertiz
 
 INSERT INTO `cet` VALUES (2166, 37, NULL, 'fancy', '幻想、想象', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (2167, 37, NULL, 'freshman', '新手', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2167, 37, NULL, 'freshman', '新生、新手', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2168, 37, NULL, 'furthermore', '而且', NULL, NULL, NULL);
 
