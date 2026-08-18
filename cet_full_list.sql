@@ -4848,7 +4848,7 @@ INSERT INTO `cet` VALUES (2413, 29, NULL, 'gentleman', '绅士', NULL, '人类�
 
 INSERT INTO `cet` VALUES (2414, 29, NULL, 'gradual', '逐渐的', NULL, '时间日期', NULL);
 
-INSERT INTO `cet` VALUES (2415, 29, NULL, 'grandchild', '孙女', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2415, 29, NULL, 'grandchild', '孙子、孙女', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2416, 29, NULL, 'ignorant', '无知的', NULL, '情感心理', NULL);
 
