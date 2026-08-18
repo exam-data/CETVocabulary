@@ -8484,7 +8484,7 @@ INSERT INTO `cet` VALUES (4231, 5, '★', 'plea', '恳求、抗辩、借口', NU
 
 INSERT INTO `cet` VALUES (4232, 5, '★', 'plight', '困境', NULL, '抽象概念', '认知与抽象名词');
 
-INSERT INTO `cet` VALUES (4233, 5, '★', 'poise', '平衡、姿态', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4233, 5, '★', 'poise', '沉着、（优雅的）姿势', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4234, 5, '★', 'portfolio', '投资组合、作品集、文件夹', NULL, '商业经济', NULL);
 
