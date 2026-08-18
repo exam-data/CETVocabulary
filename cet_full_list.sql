@@ -4862,7 +4862,7 @@ INSERT INTO `cet` VALUES (2420, 29, NULL, 'lightning', '闪电', NULL, '自然�
 
 INSERT INTO `cet` VALUES (2421, 29, NULL, 'manipulate', '操纵', NULL, '动作行为', '使动与影响');
 
-INSERT INTO `cet` VALUES (2422, 29, NULL, 'microwave', '微波', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (2422, 29, NULL, 'microwave', '微波、微波炉', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (2423, 29, NULL, 'migrate', '迁移', NULL, '动作行为', '其他动作');
 
