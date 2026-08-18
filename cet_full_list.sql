@@ -6666,7 +6666,7 @@ INSERT INTO `cet` VALUES (3322, 12, '★', 'collide', '碰撞', NULL, '动作行
 
 INSERT INTO `cet` VALUES (3323, 12, NULL, 'cord', '绳索', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (3324, 12, '★', 'degrade', '降解', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3324, 12, '★', 'degrade', '贬低、降低、降解', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3325, 12, NULL, 'despair', '绝望', NULL, '情感心理', NULL);
 
