@@ -8522,7 +8522,7 @@ INSERT INTO `cet` VALUES (4250, 5, NULL, 'sore', '痛处、疼痛的', NULL, '�
 
 INSERT INTO `cet` VALUES (4251, 5, NULL, 'spit', '吐出、吐口水', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4252, 5, '★', 'spotlight', '照明灯、用聚光灯照、车头灯', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4252, 5, '★', 'spotlight', '聚光灯、用聚光灯照、引人注目', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4253, 5, '★', 'stalk', '茎', NULL, '自然环境', NULL);
 
