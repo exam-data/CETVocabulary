@@ -8360,7 +8360,7 @@ INSERT INTO `cet` VALUES (4169, 5, NULL, 'curl', '卷曲', NULL, '动作行为',
 
 INSERT INTO `cet` VALUES (4170, 5, NULL, 'curtain', '窗帘', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (4171, 5, '★', 'derail', '出轨、阻碍', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4171, 5, '★', 'derail', '脱轨、阻碍', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4172, 5, '★', 'deter', '阻止', NULL, '动作行为', '使动与影响');
 
