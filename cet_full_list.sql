@@ -6556,7 +6556,7 @@ INSERT INTO `cet` VALUES (3267, 13, NULL, 'pizza', '比萨饼', NULL, NULL, NULL
 
 INSERT INTO `cet` VALUES (3268, 13, NULL, 'preliminary', '初步的', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (3269, 13, '★', 'premature', '早产儿', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3269, 13, '★', 'premature', '过早的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3270, 13, NULL, 'premier', '总理', NULL, '政治法律', NULL);
 
