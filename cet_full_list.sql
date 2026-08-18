@@ -6506,7 +6506,7 @@ INSERT INTO `cet` VALUES (3242, 13, NULL, 'hamburger', '汉堡包', NULL, '食�
 
 INSERT INTO `cet` VALUES (3243, 13, NULL, 'handsome', '英俊的', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (3244, 13, '★', 'hardy', '耐寒的、勇敢的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (3244, 13, '★', 'hardy', '坚强的、耐寒的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (3245, 13, '★', 'hawk', '鹰', NULL, '自然环境', NULL);
 
