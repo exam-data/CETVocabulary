@@ -8588,7 +8588,7 @@ INSERT INTO `cet` VALUES (4283, 4, '★', 'adversary', '对手', NULL, NULL, NUL
 
 INSERT INTO `cet` VALUES (4284, 4, '★', 'airborne', '空运的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4285, 4, '★', 'akin', '同族的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4285, 4, '★', 'akin', '类似的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4286, 4, '★', 'ale', '麦芽酒', NULL, NULL, NULL);
 
