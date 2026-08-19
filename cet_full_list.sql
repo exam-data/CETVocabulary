@@ -8286,7 +8286,7 @@ INSERT INTO `cet` VALUES (4132, 6, NULL, 'workout', '锻炼', NULL, '运动娱�
 
 INSERT INTO `cet` VALUES (4133, 5, '★', 'abide', '遵守', NULL, '动作行为', '使动与影响');
 
-INSERT INTO `cet` VALUES (4134, 5, NULL, 'ace', '发球得分、高手', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4134, 5, NULL, 'ace', '王牌、（网球）发球得分', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4135, 5, '★', 'allot', '分配', NULL, NULL, NULL);
 
