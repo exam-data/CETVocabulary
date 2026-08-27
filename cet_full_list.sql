@@ -8926,7 +8926,7 @@ INSERT INTO `cet` VALUES (4452, 3, '★', 'acupuncture', '针灸', NULL, NULL, N
 
 INSERT INTO `cet` VALUES (4453, 3, NULL, 'aerial', '天线', 'erial', '科学技术', NULL);
 
-INSERT INTO `cet` VALUES (4454, 3, '★', 'afloat', '在流传中、浸满水的、漂浮的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4454, 3, '★', 'afloat', '漂浮的、在流传中的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4455, 3, '★', 'aggregate', '集料', NULL, '科学技术', NULL);
 
