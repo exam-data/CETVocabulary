@@ -9176,7 +9176,7 @@ INSERT INTO `cet` VALUES (4577, 3, NULL, 'pond', '池塘', NULL, '自然环境',
 
 INSERT INTO `cet` VALUES (4578, 3, NULL, 'pork', '猪肉', NULL, '食物营养', NULL);
 
-INSERT INTO `cet` VALUES (4579, 3, '★', 'preoccupy', '先占', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4579, 3, '★', 'preoccupy', '使专注', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4580, 3, '★', 'prerequisite', '前提', NULL, NULL, NULL);
 
