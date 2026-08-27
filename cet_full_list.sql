@@ -8670,7 +8670,7 @@ INSERT INTO `cet` VALUES (4324, 4, '★', 'counteract', '对抗、抵制', NULL,
 
 INSERT INTO `cet` VALUES (4325, 4, '★', 'crouch', '蹲伏、蜷缩', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4326, 4, '★', 'crumble', '崩溃', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4326, 4, '★', 'crumble', '崩塌、崩溃', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4327, 4, NULL, 'cute', '可爱的', NULL, NULL, NULL);
 
