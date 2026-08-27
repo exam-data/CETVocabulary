@@ -8844,7 +8844,7 @@ INSERT INTO `cet` VALUES (4411, 4, NULL, 'rope', '绳索', NULL, '日常生活',
 
 INSERT INTO `cet` VALUES (4412, 4, NULL, 'saint', '圣人', NULL, '文化宗教', NULL);
 
-INSERT INTO `cet` VALUES (4413, 4, '★', 'salmon', '大马哈鱼', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4413, 4, '★', 'salmon', '鲑鱼', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4414, 4, '★', 'scorn', '轻蔑、鄙视', NULL, '情感心理', NULL);
 
