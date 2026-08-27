@@ -8936,7 +8936,7 @@ INSERT INTO `cet` VALUES (4457, 3, '★', 'allergic', '过敏的', NULL, NULL, N
 
 INSERT INTO `cet` VALUES (4458, 3, '★', 'ammunition', '弹药', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4459, 3, '★', 'animate', '有生命的、鼓励', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4459, 3, '★', 'animate', '有生命的、使有生气', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4460, 3, NULL, 'anyhow', '无论如何', NULL, '抽象概念', '逻辑与关系');
 
