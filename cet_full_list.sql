@@ -8954,7 +8954,7 @@ INSERT INTO `cet` VALUES (4466, 3, NULL, 'barbecue', '烧烤', NULL, '食物营�
 
 INSERT INTO `cet` VALUES (4467, 3, '★', 'bass', '鲈鱼、男低音', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4468, 3, '★', 'batter', '打击、殴打、面糊', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4468, 3, '★', 'batter', '连续殴打、面糊', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4469, 3, NULL, 'belly', '腹部', NULL, '人类与社会', NULL);
 
