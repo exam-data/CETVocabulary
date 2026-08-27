@@ -8768,7 +8768,7 @@ INSERT INTO `cet` VALUES (4373, 4, NULL, 'loaf', '块', NULL, '食物营养', NU
 
 INSERT INTO `cet` VALUES (4374, 4, NULL, 'lunar', '月亮的', NULL, '自然环境', NULL);
 
-INSERT INTO `cet` VALUES (4375, 4, '★', 'malpractice', '失职', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4375, 4, '★', 'malpractice', '营私舞弊、玩忽职守', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4376, 4, '★', 'meadow', '草地', NULL, '自然环境', NULL);
 
