@@ -8664,7 +8664,7 @@ INSERT INTO `cet` VALUES (4321, 4, '★', 'compassion', '同情', NULL, '情感�
 
 INSERT INTO `cet` VALUES (4322, 4, '★', 'conspire', '密谋', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4323, 4, '★', 'cosmetic', '化妆品', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4323, 4, '★', 'cosmetic', '美容的、表面的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4324, 4, '★', 'counteract', '对抗、抵制', NULL, NULL, NULL);
 
