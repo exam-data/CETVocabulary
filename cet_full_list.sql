@@ -9256,7 +9256,7 @@ INSERT INTO `cet` VALUES (4617, 3, NULL, 'vigor', '活力', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4618, 3, NULL, 'volleyball', '排球', NULL, '运动娱乐', NULL);
 
-INSERT INTO `cet` VALUES (4619, 3, '★', 'voucher', '凭证', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4619, 3, '★', 'voucher', '代金券', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4620, 3, '★', 'warranty', '保修期', NULL, '商业经济', NULL);
 
