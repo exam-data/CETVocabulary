@@ -9042,7 +9042,7 @@ INSERT INTO `cet` VALUES (4510, 3, '★', 'flare', '爆发、闪光', NULL, '动
 
 INSERT INTO `cet` VALUES (4511, 3, '★', 'flutter', '振翼、摆动', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4512, 3, '★', 'foil', '箔', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4512, 3, '★', 'foil', '箔、陪衬', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4513, 3, '★', 'foretell', '预言、预示', NULL, NULL, NULL);
 
