@@ -9280,7 +9280,7 @@ INSERT INTO `cet` VALUES (4629, 2, '★', 'adjacent', '邻近的', NULL, '空间
 
 INSERT INTO `cet` VALUES (4630, 2, NULL, 'adjective', '形容词', NULL, '教育学习', NULL);
 
-INSERT INTO `cet` VALUES (4631, 2, '★', 'affix', '词缀', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4631, 2, '★', 'affix', '贴上、词缀', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4632, 2, NULL, 'alley', '巷', NULL, NULL, NULL);
 
