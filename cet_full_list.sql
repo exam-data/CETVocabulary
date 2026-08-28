@@ -9006,7 +9006,7 @@ INSERT INTO `cet` VALUES (4492, 3, NULL, 'deficient', '不足的', NULL, NULL, N
 
 INSERT INTO `cet` VALUES (4493, 3, NULL, 'desktop', '桌面', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4494, 3, '★', 'detergent', '清洁剂', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4494, 3, '★', 'detergent', '洗涤剂', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4495, 3, '★', 'dilute', '稀释', NULL, '动作行为', '变化趋势');
 
