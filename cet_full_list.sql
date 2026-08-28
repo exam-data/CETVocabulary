@@ -9240,7 +9240,7 @@ INSERT INTO `cet` VALUES (4609, 3, '★', 'throne', '王位', NULL, '政治法�
 
 INSERT INTO `cet` VALUES (4610, 3, '★', 'timid', '胆怯的', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (4611, 3, '★', 'tread', '踩、践踏', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4611, 3, '★', 'tread', '踩、踏', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4612, 3, '★', 'trophy', '战利品', NULL, NULL, NULL);
 
