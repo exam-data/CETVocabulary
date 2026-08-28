@@ -9212,7 +9212,7 @@ INSERT INTO `cet` VALUES (4595, 3, '★', 'shaft', '轴', NULL, '日常生活', 
 
 INSERT INTO `cet` VALUES (4596, 3, '★', 'slam', '满贯', NULL, '动作行为', '其他动作');
 
-INSERT INTO `cet` VALUES (4597, 3, '★', 'solicit', '征求', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4597, 3, '★', 'solicit', '请求', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4598, 3, '★', 'solo', '独奏', NULL, '运动娱乐', NULL);
 
