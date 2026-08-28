@@ -9152,7 +9152,7 @@ INSERT INTO `cet` VALUES (4565, 3, '★', 'partition', '划分、分割', NULL, 
 
 INSERT INTO `cet` VALUES (4566, 3, NULL, 'paste', '粘贴', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (4567, 3, '★', 'pastry', '馅饼皮', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4567, 3, '★', 'pastry', '油酥糕点', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4568, 3, NULL, 'peach', '桃子、桃树', NULL, '食物营养', NULL);
 
