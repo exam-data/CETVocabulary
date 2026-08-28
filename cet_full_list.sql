@@ -9104,7 +9104,7 @@ INSERT INTO `cet` VALUES (4541, 3, '★', 'mansion', '大厦', NULL, NULL, NULL)
 
 INSERT INTO `cet` VALUES (4542, 3, '★', 'marble', '大理石', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (4543, 3, NULL, 'marshal', '典礼官、整顿', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4543, 3, NULL, 'marshal', '典礼官、元帅', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4544, 3, '★', 'massacre', '大屠杀', NULL, '政治法律', NULL);
 
