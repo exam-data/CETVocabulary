@@ -9040,7 +9040,7 @@ INSERT INTO `cet` VALUES (4509, 3, NULL, 'fist', '拳头', NULL, '人类与社�
 
 INSERT INTO `cet` VALUES (4510, 3, '★', 'flare', '爆发、闪光', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4511, 3, '★', 'flutter', '振翼、摆动', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4511, 3, '★', 'flutter', '飘动、颤动', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4512, 3, '★', 'foil', '箔', NULL, NULL, NULL);
 
