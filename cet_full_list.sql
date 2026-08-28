@@ -9242,7 +9242,7 @@ INSERT INTO `cet` VALUES (4610, 3, '★', 'timid', '胆怯的', NULL, '情感心
 
 INSERT INTO `cet` VALUES (4611, 3, '★', 'tread', '踩、践踏', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4612, 3, '★', 'trophy', '战利品', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4612, 3, '★', 'trophy', '奖杯、战利品', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4613, 3, NULL, 'tyre', '轮胎', NULL, '动作行为', '使动与影响');
 
