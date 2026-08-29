@@ -10542,7 +10542,7 @@ INSERT INTO `cet` VALUES (5260, 0, '★', 'waive', '放弃', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5261, 0, NULL, 'watertight', '无懈可击的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5262, 0, NULL, 'webcast', '网上节目', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5262, 0, NULL, 'webcast', '网络直播', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5263, 0, NULL, 'Wednesday', '星期三', NULL, '时间日期', NULL);
 
