@@ -9372,7 +9372,7 @@ INSERT INTO `cet` VALUES (4675, 2, '★', 'configuration', '构造', NULL, '抽�
 
 INSERT INTO `cet` VALUES (4676, 2, '★', 'contagious', '传染性的', NULL, '健康医疗', NULL);
 
-INSERT INTO `cet` VALUES (4677, 2, '★', 'convoy', '护航、护送', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4677, 2, '★', 'convoy', '车队、船队', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4678, 2, '★', 'cork', '软木', NULL, NULL, NULL);
 
