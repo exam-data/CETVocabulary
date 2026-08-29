@@ -9724,7 +9724,7 @@ INSERT INTO `cet` VALUES (4851, 1, '★', 'devour', '吞食', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4852, 1, NULL, 'dew', '露水', NULL, '自然环境', NULL);
 
-INSERT INTO `cet` VALUES (4853, 1, '★', 'disarm', '解除武装、放下武器', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4853, 1, '★', 'disarm', '解除武装', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4854, 1, '★', 'dissertation', '论文', NULL, NULL, NULL);
 
