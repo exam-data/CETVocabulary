@@ -9320,7 +9320,7 @@ INSERT INTO `cet` VALUES (4649, 2, NULL, 'bark', '树皮', NULL, '自然环境',
 
 INSERT INTO `cet` VALUES (4650, 2, NULL, 'bearing', '轴承', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4651, 2, '★', 'beckon', '召唤', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4651, 2, '★', 'beckon', '召唤、示意', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4652, 2, NULL, 'best', '最、最好的', NULL, '抽象概念', '性质与评价');
 
