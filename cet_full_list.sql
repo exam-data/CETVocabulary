@@ -9676,7 +9676,7 @@ INSERT INTO `cet` VALUES (4827, 1, '★', 'clamp', '夹子、夹住', NULL, NULL
 
 INSERT INTO `cet` VALUES (4828, 1, '★', 'clearance', '间隙、清除', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4829, 1, '★', 'clearing', '结算、清除', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4829, 1, '★', 'clearing', '清除', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4830, 1, NULL, 'coarse', '粗糙的', NULL, '抽象概念', '性质与评价');
 
