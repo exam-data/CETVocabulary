@@ -9568,7 +9568,7 @@ INSERT INTO `cet` VALUES (4773, 2, '★', 'syndicate', '联合组织', NULL, NUL
 
 INSERT INTO `cet` VALUES (4774, 2, NULL, 'takeoff', '起飞', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4775, 2, '★', 'terrace', '阳台、平台', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4775, 2, '★', 'terrace', '露台、平台', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4776, 2, '★', 'tertiary', '第三的、高等教育的', NULL, NULL, NULL);
 
