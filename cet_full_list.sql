@@ -9932,7 +9932,7 @@ INSERT INTO `cet` VALUES (4955, 1, '★', 'tempo', '节奏', NULL, '运动娱乐
 
 INSERT INTO `cet` VALUES (4956, 1, '★', 'temporal', '暂时的', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (4957, 1, '★', 'tickle', '痒', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4957, 1, '★', 'tickle', '挠（某人）痒痒、痒（感）', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4958, 1, '★', 'tornado', '龙卷风', NULL, NULL, NULL);
 
