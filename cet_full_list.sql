@@ -9666,7 +9666,7 @@ INSERT INTO `cet` VALUES (4822, 1, NULL, 'cellar', '地窖', NULL, '日常生活
 
 INSERT INTO `cet` VALUES (4823, 1, '★', 'cemetery', '墓地', NULL, '文化宗教', NULL);
 
-INSERT INTO `cet` VALUES (4824, 1, '★', 'ceramic', '陶器', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4824, 1, '★', 'ceramic', '陶瓷', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4825, 1, NULL, 'chopstick', '筷子', NULL, NULL, NULL);
 
