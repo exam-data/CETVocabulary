@@ -9594,7 +9594,7 @@ INSERT INTO `cet` VALUES (4786, 2, '★', 'wither', '凋谢', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4787, 2, '★', 'zip', '拉链、尖啸声', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4788, 1, '★', 'abreast', '并肩地', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4788, 1, '★', 'abreast', '并肩', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4789, 1, '★', 'adore', '热爱、爱慕', NULL, '情感心理', NULL);
 
