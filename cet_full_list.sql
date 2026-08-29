@@ -10414,7 +10414,7 @@ INSERT INTO `cet` VALUES (5196, 0, NULL, 'podcast', '播客', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5197, 0, NULL, 'politics', '政治、政治学', NULL, '政治法律', NULL);
 
-INSERT INTO `cet` VALUES (5198, 0, '★', 'polytechnic', '综合技术的、各种工艺的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5198, 0, '★', 'polytechnic', '理工学院', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5199, 0, NULL, 'provided', '提供的', NULL, '抽象概念', '逻辑与关系');
 
