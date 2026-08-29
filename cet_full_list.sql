@@ -10300,7 +10300,7 @@ INSERT INTO `cet` VALUES (5139, 0, '★', 'lieutenant', '中尉', NULL, NULL, NU
 
 INSERT INTO `cet` VALUES (5140, 0, '★', 'lime', '石灰', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5141, 0, '★', 'limelight', '聚光灯', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5141, 0, '★', 'limelight', '公众关注', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5142, 0, '★', 'linen', '亚麻布', NULL, '交通旅行', NULL);
 
