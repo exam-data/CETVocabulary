@@ -10430,7 +10430,7 @@ INSERT INTO `cet` VALUES (5204, 0, '★', 'referendum', '公民投票', NULL, NU
 
 INSERT INTO `cet` VALUES (5205, 0, NULL, 'regarding', '关于', NULL, '抽象概念', '逻辑与关系');
 
-INSERT INTO `cet` VALUES (5206, 0, '★', 'regiment', '组织', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5206, 0, '★', 'regiment', '（军）团', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5207, 0, '★', 'rehabilitate', '改造', NULL, NULL, NULL);
 
