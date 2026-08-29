@@ -9462,7 +9462,7 @@ INSERT INTO `cet` VALUES (4720, 2, NULL, 'lace', '花边', NULL, '日常生活',
 
 INSERT INTO `cet` VALUES (4721, 2, NULL, 'lavatory', '厕所', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (4722, 2, NULL, 'legislate', '制定法律', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4722, 2, NULL, 'legislate', '立法', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4723, 2, '★', 'lenient', '宽大的', NULL, NULL, NULL);
 
