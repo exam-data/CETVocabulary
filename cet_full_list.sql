@@ -10188,7 +10188,7 @@ INSERT INTO `cet` VALUES (5083, 0, '★', 'embroidery', '刺绣', NULL, NULL, NU
 
 INSERT INTO `cet` VALUES (5084, 0, '★', 'envoy', '特使', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5085, 0, '★', 'exponent', '指数', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5085, 0, '★', 'exponent', '倡导者、指数幂', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5086, 0, NULL, 'fable', '寓言', NULL, '文化宗教', NULL);
 
