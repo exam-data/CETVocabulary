@@ -9504,7 +9504,7 @@ INSERT INTO `cet` VALUES (4741, 2, '★', 'panorama', '全景', NULL, '自然环
 
 INSERT INTO `cet` VALUES (4742, 2, '★', 'parole', '假释', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4743, 2, '★', 'partisan', '游击队员、党羽', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4743, 2, '★', 'partisan', '偏袒的、游击队员', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4744, 2, '★', 'pathetic', '可怜的', NULL, '情感心理', NULL);
 
