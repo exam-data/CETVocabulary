@@ -9536,7 +9536,7 @@ INSERT INTO `cet` VALUES (4757, 2, NULL, 'sew', '缝', NULL, '动作行为', '�
 
 INSERT INTO `cet` VALUES (4758, 2, '★', 'shepherd', '牧羊', NULL, '职业工作', NULL);
 
-INSERT INTO `cet` VALUES (4759, 2, '★', 'showcase', '陈列', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4759, 2, '★', 'showcase', '陈列、展示', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4760, 2, '★', 'skull', '头骨', NULL, '人类与社会', NULL);
 
