@@ -10398,7 +10398,7 @@ INSERT INTO `cet` VALUES (5188, 0, '★', 'peep', '偷看、窥视', NULL, '动�
 
 INSERT INTO `cet` VALUES (5189, 0, '★', 'peg', '钉', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5190, 0, '★', 'pending', '直到', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5190, 0, '★', 'pending', '待定的、直到', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5191, 0, '★', 'persecute', '迫害', NULL, '动作行为', '其他动作');
 
