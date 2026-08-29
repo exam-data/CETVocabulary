@@ -10312,7 +10312,7 @@ INSERT INTO `cet` VALUES (5145, 0, '★', 'locomotive', '机车', NULL, '交通�
 
 INSERT INTO `cet` VALUES (5146, 0, '★', 'logistics', '物流', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5147, 0, '★', 'loot', '掠夺、赃物', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5147, 0, '★', 'loot', '抢劫', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5148, 0, '★', 'lotion', '洗剂、乳液', NULL, NULL, NULL);
 
