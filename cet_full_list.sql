@@ -9630,7 +9630,7 @@ INSERT INTO `cet` VALUES (4804, 1, '★', 'barge', '驳船', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4805, 1, NULL, 'batch', '一批', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (4806, 1, NULL, 'battalion', '军队', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4806, 1, NULL, 'battalion', '（军）营', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4807, 1, '★', 'beset', '困扰', NULL, NULL, NULL);
 
