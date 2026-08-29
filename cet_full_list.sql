@@ -9698,7 +9698,7 @@ INSERT INTO `cet` VALUES (4838, 1, '★', 'condolence', '慰问、吊唁', NULL,
 
 INSERT INTO `cet` VALUES (4839, 1, '★', 'congregate', '聚集', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4840, 1, '★', 'consulate', '领事', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4840, 1, '★', 'consulate', '领事馆', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4841, 1, '★', 'cordial', '热忱的、诚恳的', NULL, '情感心理', NULL);
 
