@@ -9856,7 +9856,7 @@ INSERT INTO `cet` VALUES (4917, 1, NULL, 'outgoing', '外向的、即将离职�
 
 INSERT INTO `cet` VALUES (4918, 1, NULL, 'overhear', '偷听', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4919, 1, NULL, 'oversight', '监管', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4919, 1, NULL, 'oversight', '监督、疏忽', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4920, 1, '★', 'parrot', '鹦鹉', NULL, NULL, NULL);
 
