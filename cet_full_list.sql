@@ -10108,7 +10108,7 @@ INSERT INTO `cet` VALUES (5043, 0, '★', 'coexist', '共存', NULL, NULL, NULL)
 
 INSERT INTO `cet` VALUES (5044, 0, NULL, 'cohesion', '凝聚力', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5045, 0, NULL, 'colon', '结肠', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5045, 0, NULL, 'colon', '冒号', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5046, 0, '★', 'colonel', '上校', NULL, '职业工作', NULL);
 
