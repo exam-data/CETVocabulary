@@ -9886,7 +9886,7 @@ INSERT INTO `cet` VALUES (4932, 1, '★', 'reel', '卷', NULL, '动作行为', '
 
 INSERT INTO `cet` VALUES (4933, 1, '★', 'relish', '喜欢、享受', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4934, 1, '★', 'reminiscent', '怀旧的、回忆录作者', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4934, 1, '★', 'reminiscent', '怀旧的、使人联想起', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4935, 1, NULL, 'riddle', '谜', NULL, '情感心理', NULL);
 
