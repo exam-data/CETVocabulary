@@ -9792,7 +9792,7 @@ INSERT INTO `cet` VALUES (4885, 1, '★', 'interim', '临时的', NULL, '时间�
 
 INSERT INTO `cet` VALUES (4886, 1, '★', 'ivory', '象牙', NULL, '自然环境', NULL);
 
-INSERT INTO `cet` VALUES (4887, 1, '★', 'jockey', '驾驶员、骑马', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4887, 1, '★', 'jockey', '赛马的骑师、驾驶', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4888, 1, '★', 'judiciary', '司法部、法官', NULL, NULL, NULL);
 
