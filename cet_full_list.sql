@@ -9850,7 +9850,7 @@ INSERT INTO `cet` VALUES (4914, 1, '★', 'oath', '誓言', NULL, '政治法律'
 
 INSERT INTO `cet` VALUES (4915, 1, '★', 'observatory', '天文台', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4916, 1, NULL, 'onward', '向前的、前进的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4916, 1, NULL, 'onward', '向前的、向前地', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4917, 1, NULL, 'outgoing', '外向的、即将离职的', NULL, NULL, NULL);
 
