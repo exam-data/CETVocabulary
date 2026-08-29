@@ -9916,7 +9916,7 @@ INSERT INTO `cet` VALUES (4947, 1, '★', 'static', '静态的、静电', NULL, 
 
 INSERT INTO `cet` VALUES (4948, 1, NULL, 'stool', '凳子', NULL, '日常生活', NULL);
 
-INSERT INTO `cet` VALUES (4949, 1, '★', 'stout', '肥胖的、强壮的、坚定的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4949, 1, '★', 'stout', '（身体）结实的、勇敢的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4950, 1, '★', 'streak', '倾向、条痕', NULL, NULL, NULL);
 
