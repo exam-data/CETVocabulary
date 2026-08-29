@@ -9794,7 +9794,7 @@ INSERT INTO `cet` VALUES (4886, 1, '★', 'ivory', '象牙', NULL, '自然环境
 
 INSERT INTO `cet` VALUES (4887, 1, '★', 'jockey', '驾驶员、骑马', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4888, 1, '★', 'judiciary', '司法部、法官', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4888, 1, '★', 'judiciary', '司法系统', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4889, 1, NULL, 'kettle', '水壶', NULL, '日常生活', NULL);
 
