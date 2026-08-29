@@ -9352,7 +9352,7 @@ INSERT INTO `cet` VALUES (4665, 2, '★', 'choir', '唱诗班', NULL, '文化宗
 
 INSERT INTO `cet` VALUES (4666, 2, NULL, 'clap', '击掌、拍手', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4667, 2, '★', 'cleanse', '净化', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4667, 2, '★', 'cleanse', '净化、清洗', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4668, 2, '★', 'clergy', '神职人员', NULL, '文化宗教', NULL);
 
