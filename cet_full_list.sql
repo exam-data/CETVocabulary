@@ -10004,7 +10004,7 @@ INSERT INTO `cet` VALUES (4991, 0, '★', 'armor', '盔甲', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4992, 0, '★', 'artillery', '大炮', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4993, 0, NULL, 'ass', '驴', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4993, 0, NULL, 'ass', '屁股、驴', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4994, 0, '★', 'assorted', '各种各样的', NULL, NULL, NULL);
 
