@@ -9804,7 +9804,7 @@ INSERT INTO `cet` VALUES (4891, 1, '★', 'knob', '旋钮', NULL, '日常生活'
 
 INSERT INTO `cet` VALUES (4892, 1, NULL, 'lame', '痛的', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (4893, 1, '★', 'lavish', '浪费、浪费的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4893, 1, '★', 'lavish', '奢侈的、慷慨给予', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4894, 1, NULL, 'lid', '盖子', NULL, '日常生活', NULL);
 
