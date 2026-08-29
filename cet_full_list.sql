@@ -9442,7 +9442,7 @@ INSERT INTO `cet` VALUES (4710, 2, '★', 'humane', '人道的', NULL, NULL, NUL
 
 INSERT INTO `cet` VALUES (4711, 2, '★', 'hypocrisy', '伪善', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (4712, 2, '★', 'incumbent', '在职者', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4712, 2, '★', 'incumbent', '在职者、在职的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4713, 2, '★', 'indebted', '负债的', NULL, NULL, NULL);
 
