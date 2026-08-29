@@ -9396,7 +9396,7 @@ INSERT INTO `cet` VALUES (4687, 2, '★', 'deport', '驱逐出境', NULL, NULL, 
 
 INSERT INTO `cet` VALUES (4688, 2, NULL, 'depress', '降低', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4689, 2, '★', 'dispense', '免除、分配', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4689, 2, '★', 'dispense', '发放', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4690, 2, '★', 'dodge', '躲避', NULL, NULL, NULL);
 
