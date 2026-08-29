@@ -9478,7 +9478,7 @@ INSERT INTO `cet` VALUES (4728, 2, NULL, 'maiden', '少女', NULL, '人类与社
 
 INSERT INTO `cet` VALUES (4729, 2, '★', 'malignant', '恶性的', NULL, '健康医疗', NULL);
 
-INSERT INTO `cet` VALUES (4730, 2, '★', 'maternal', '母亲的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4730, 2, '★', 'maternal', '慈母般的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4731, 2, '★', 'mint', '薄荷', NULL, NULL, NULL);
 
