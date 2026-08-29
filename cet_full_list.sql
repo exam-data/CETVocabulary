@@ -9660,7 +9660,7 @@ INSERT INTO `cet` VALUES (4819, 1, NULL, 'cane', '手杖', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4820, 1, '★', 'caravan', '商队', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4821, 1, '★', 'cavity', '腔', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4821, 1, '★', 'cavity', '窟、洞、腔', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4822, 1, NULL, 'cellar', '地窖', NULL, '日常生活', NULL);
 
