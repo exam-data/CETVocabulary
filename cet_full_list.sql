@@ -10540,7 +10540,7 @@ INSERT INTO `cet` VALUES (5259, 0, NULL, 'vinegar', '醋', NULL, '食物营养',
 
 INSERT INTO `cet` VALUES (5260, 0, '★', 'waive', '放弃', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5261, 0, NULL, 'watertight', '无懈可击的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5261, 0, NULL, 'watertight', '无懈可击的、防漏水的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5262, 0, NULL, 'webcast', '网上节目', NULL, NULL, NULL);
 
