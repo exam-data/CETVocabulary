@@ -10494,7 +10494,7 @@ INSERT INTO `cet` VALUES (5236, 0, '★', 'stray', '偏离、迷路', NULL, NULL
 
 INSERT INTO `cet` VALUES (5237, 0, NULL, 'Sunday', '星期日', NULL, '时间日期', NULL);
 
-INSERT INTO `cet` VALUES (5238, 0, '★', 'tact', '机智', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5238, 0, '★', 'tact', '得体', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5239, 0, '★', 'tanker', '油轮', NULL, '交通旅行', NULL);
 
