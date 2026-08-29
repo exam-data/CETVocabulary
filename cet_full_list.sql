@@ -10464,7 +10464,7 @@ INSERT INTO `cet` VALUES (5221, 0, NULL, 'shit', '大便', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5222, 0, '★', 'shrub', '灌木', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5223, 0, NULL, 'skyline', '地平线', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5223, 0, NULL, 'skyline', '天际线', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5224, 0, '★', 'sniff', '嗅、闻', NULL, '动作行为', '身体动作');
 
