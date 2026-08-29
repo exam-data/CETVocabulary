@@ -9620,7 +9620,7 @@ INSERT INTO `cet` VALUES (4799, 1, '★', 'appraise', '评价', NULL, NULL, NULL
 
 INSERT INTO `cet` VALUES (4800, 1, '★', 'assassinate', '暗杀', NULL, '动作行为', '其他动作');
 
-INSERT INTO `cet` VALUES (4801, 1, '★', 'astray', '迷途地、迷途的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4801, 1, '★', 'astray', '迷路', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4802, 1, NULL, 'attic', '阁楼', NULL, NULL, NULL);
 
