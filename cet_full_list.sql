@@ -9658,7 +9658,7 @@ INSERT INTO `cet` VALUES (4818, 1, NULL, 'calf', '小牛', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4819, 1, NULL, 'cane', '手杖', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4820, 1, '★', 'caravan', '商队', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4820, 1, '★', 'caravan', '（尤指度假时使用，由汽车拖曳的）宿营拖车、车队', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4821, 1, '★', 'cavity', '腔', NULL, NULL, NULL);
 
