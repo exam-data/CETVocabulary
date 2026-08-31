@@ -10036,7 +10036,7 @@ INSERT INTO `cet` VALUES (5007, 0, NULL, 'best-seller', '畅销书', NULL, NULL,
 
 INSERT INTO `cet` VALUES (5008, 0, NULL, 'Bible', '圣经', NULL, '文化宗教', NULL);
 
-INSERT INTO `cet` VALUES (5009, 0, '★', 'binoculars', '双眼望远镜', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5009, 0, '★', 'binoculars', '双筒望远镜', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5010, 0, NULL, 'bitch', '母狗', NULL, NULL, NULL);
 
