@@ -10016,7 +10016,7 @@ INSERT INTO `cet` VALUES (4997, 0, NULL, 'avenge', '报仇', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4998, 0, NULL, 'baby boom', '婴儿潮', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4999, 0, '★', 'baffle', '挡板', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4999, 0, '★', 'baffle', '使困惑', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5000, 0, NULL, 'bamboo', '竹', NULL, NULL, NULL);
 
