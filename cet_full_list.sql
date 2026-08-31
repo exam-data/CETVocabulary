@@ -10090,7 +10090,7 @@ INSERT INTO `cet` VALUES (5034, 0, NULL, 'Christ', '基督', NULL, '文化宗教
 
 INSERT INTO `cet` VALUES (5035, 0, NULL, 'cigaret', '香烟', 'cigarette', '食物营养', NULL);
 
-INSERT INTO `cet` VALUES (5036, 0, NULL, 'clear-cut', '轮廓鲜明的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5036, 0, NULL, 'clear-cut', '清晰的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5037, 0, '★', 'clench', '握紧', NULL, NULL, NULL);
 
