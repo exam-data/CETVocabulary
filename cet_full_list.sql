@@ -10118,7 +10118,7 @@ INSERT INTO `cet` VALUES (5048, 0, '★', 'concurrent', '同时发生的', NULL,
 
 INSERT INTO `cet` VALUES (5049, 0, NULL, 'Confucian', '儒家', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5050, 0, '★', 'corporal', '肉体的、身体的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5050, 0, '★', 'corporal', '肉体的、下士', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5051, 0, '★', 'corpse', '尸体', NULL, NULL, NULL);
 
