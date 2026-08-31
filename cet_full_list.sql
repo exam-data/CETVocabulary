@@ -9922,7 +9922,7 @@ INSERT INTO `cet` VALUES (4950, 1, '★', 'streak', '倾向、条痕', NULL, NUL
 
 INSERT INTO `cet` VALUES (4951, 1, '★', 'streamline', '简化', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4952, 1, '★', 'stump', '演说', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4952, 1, '★', 'stump', '树桩', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4953, 1, '★', 'symmetry', '匀称', NULL, '科学技术', NULL);
 
