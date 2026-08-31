@@ -9980,7 +9980,7 @@ INSERT INTO `cet` VALUES (4979, 0, NULL, 'adverb', '副词', NULL, '教育学习
 
 INSERT INTO `cet` VALUES (4980, 0, '★', 'aide', '助手', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4981, 0, NULL, 'AIDS', '爱滋病', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4981, 0, NULL, 'AIDS', '艾滋病', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4982, 0, NULL, 'air-conditioning', '的现在分词形式', NULL, NULL, NULL);
 
