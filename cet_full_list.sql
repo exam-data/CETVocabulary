@@ -10546,7 +10546,7 @@ INSERT INTO `cet` VALUES (5262, 0, NULL, 'webcast', '网上节目', NULL, NULL, 
 
 INSERT INTO `cet` VALUES (5263, 0, NULL, 'Wednesday', '星期三', NULL, '时间日期', NULL);
 
-INSERT INTO `cet` VALUES (5264, 0, NULL, 'well-being', '安宁', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5264, 0, NULL, 'well-being', '幸福', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5265, 0, NULL, 'well-known', '众所周知的', NULL, '抽象概念', '性质与评价');
 
