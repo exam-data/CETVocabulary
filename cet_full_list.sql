@@ -10092,7 +10092,7 @@ INSERT INTO `cet` VALUES (5035, 0, NULL, 'cigaret', '香烟', 'cigarette', '食�
 
 INSERT INTO `cet` VALUES (5036, 0, NULL, 'clear-cut', '轮廓鲜明的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5037, 0, '★', 'clench', '紧握、确定', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5037, 0, '★', 'clench', '握紧', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5038, 0, NULL, 'clockwise', '顺时针方向地', 'clockwize', '空间地点', NULL);
 
