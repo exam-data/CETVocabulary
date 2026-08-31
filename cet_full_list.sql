@@ -9908,7 +9908,7 @@ INSERT INTO `cet` VALUES (4943, 1, '★', 'snob', '势利小人', NULL, NULL, NU
 
 INSERT INTO `cet` VALUES (4944, 1, '★', 'sodium', '钠', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4945, 1, '★', 'squad', '班', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4945, 1, '★', 'squad', '班、小组', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4946, 1, '★', 'stagger', '蹒跚', NULL, '动作行为', '身体动作');
 
