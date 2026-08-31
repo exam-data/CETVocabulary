@@ -10294,7 +10294,7 @@ INSERT INTO `cet` VALUES (5136, 0, NULL, 'lass', '小姑娘、少女', NULL, NUL
 
 INSERT INTO `cet` VALUES (5137, 0, NULL, 'left', '左边、向左', NULL, '空间地点', NULL);
 
-INSERT INTO `cet` VALUES (5138, 0, '★', 'lesbian', '同性恋的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5138, 0, '★', 'lesbian', '女同性恋的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5139, 0, '★', 'lieutenant', '中尉', NULL, NULL, NULL);
 
