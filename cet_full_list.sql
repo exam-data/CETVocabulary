@@ -10180,7 +10180,7 @@ INSERT INTO `cet` VALUES (5079, 0, NULL, 'easy-going', '随和的', NULL, NULL, 
 
 INSERT INTO `cet` VALUES (5080, 0, NULL, 'economics', '经济学', NULL, '商业经济', NULL);
 
-INSERT INTO `cet` VALUES (5081, 0, NULL, 'eggplant', '黑紫色', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5081, 0, NULL, 'eggplant', '茄子', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5082, 0, NULL, 'embassy', '大使馆', NULL, '政治法律', NULL);
 
