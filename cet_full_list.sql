@@ -9900,7 +9900,7 @@ INSERT INTO `cet` VALUES (4939, 1, '★', 'scrub', '用力擦洗', NULL, NULL, N
 
 INSERT INTO `cet` VALUES (4940, 1, '★', 'secular', '世俗的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4941, 1, '★', 'shred', '撕成碎片、细片', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4941, 1, '★', 'shred', '碎片、撕碎', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4942, 1, NULL, 'siege', '围攻', NULL, '政治法律', NULL);
 
