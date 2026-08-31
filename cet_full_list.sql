@@ -10286,7 +10286,7 @@ INSERT INTO `cet` VALUES (5132, 0, NULL, 'July', '七月', NULL, '时间日期',
 
 INSERT INTO `cet` VALUES (5133, 0, NULL, 'June', '六月', NULL, '时间日期', NULL);
 
-INSERT INTO `cet` VALUES (5134, 0, NULL, 'knowhow', '专门技术', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5134, 0, NULL, 'knowhow', '诀窍', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5135, 0, '★', 'lash', '鞭打、抨击、睫毛', NULL, '动作行为', '身体动作');
 
