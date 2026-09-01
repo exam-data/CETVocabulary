@@ -10164,7 +10164,7 @@ INSERT INTO `cet` VALUES (5071, 0, NULL, 'dialog', '对话', 'dialogue', '文化
 
 INSERT INTO `cet` VALUES (5072, 0, NULL, 'disco', '迪斯科舞厅', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (5073, 0, '★', 'discord', '不和', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5073, 0, '★', 'discord', '不一致、不和谐', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5074, 0, '★', 'dissident', '持不同政见者', NULL, NULL, NULL);
 
