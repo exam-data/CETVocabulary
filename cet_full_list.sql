@@ -9720,7 +9720,7 @@ INSERT INTO `cet` VALUES (4849, 1, '★', 'deregulate', '解除管制', NULL, NU
 
 INSERT INTO `cet` VALUES (4850, 1, '★', 'detriment', '损害物', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4851, 1, '★', 'devour', '吞食', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4851, 1, '★', 'devour', '狼吞虎咽', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4852, 1, NULL, 'dew', '露水', NULL, '自然环境', NULL);
 
