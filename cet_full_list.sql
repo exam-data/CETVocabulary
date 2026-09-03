@@ -10072,7 +10072,7 @@ INSERT INTO `cet` VALUES (5025, 0, NULL, 'bumper', '保险杠', NULL, NULL, NULL
 
 INSERT INTO `cet` VALUES (5026, 0, NULL, 'cabbage', '卷心菜', NULL, '食物营养', NULL);
 
-INSERT INTO `cet` VALUES (5027, 0, NULL, 'calling', '召唤', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (5027, 0, NULL, 'calling', '使命、职业', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (5028, 0, '★', 'caption', '说明文字', NULL, NULL, NULL);
 
