@@ -9742,7 +9742,7 @@ INSERT INTO `cet` VALUES (4860, 1, NULL, 'enquire', '询问', NULL, '动作行�
 
 INSERT INTO `cet` VALUES (4861, 1, '★', 'entrust', '交托、信托', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4862, 1, '★', 'envelop', '包围', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4862, 1, '★', 'envelop', '覆盖', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4863, 1, '★', 'equator', '赤道', NULL, '自然环境', NULL);
 
