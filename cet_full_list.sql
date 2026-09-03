@@ -9754,7 +9754,7 @@ INSERT INTO `cet` VALUES (4866, 1, '★', 'folklore', '民间传说', NULL, NULL
 
 INSERT INTO `cet` VALUES (4867, 1, NULL, 'forehead', '前额', NULL, '人类与社会', NULL);
 
-INSERT INTO `cet` VALUES (4868, 1, '★', 'fortify', '增强、加强', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4868, 1, '★', 'fortify', '增强', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4869, 1, NULL, 'fright', '惊恐', NULL, '情感心理', NULL);
 
