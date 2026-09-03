@@ -9896,7 +9896,7 @@ INSERT INTO `cet` VALUES (4937, 1, '★', 'salon', '沙龙', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4938, 1, '★', 'sarcasm', '讽刺', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4939, 1, '★', 'scrub', '用力擦洗', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4939, 1, '★', 'scrub', '擦洗', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4940, 1, '★', 'secular', '世俗的', NULL, NULL, NULL);
 
