@@ -9830,7 +9830,7 @@ INSERT INTO `cet` VALUES (4904, 1, NULL, 'mist', '雾', NULL, '自然环境', NU
 
 INSERT INTO `cet` VALUES (4905, 1, '★', 'mosquito', '蚊子', NULL, '自然环境', NULL);
 
-INSERT INTO `cet` VALUES (4906, 1, '★', 'mow', '刈、草堆', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4906, 1, '★', 'mow', '刈草', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4907, 1, '★', 'multilateral', '多边的', NULL, NULL, NULL);
 
