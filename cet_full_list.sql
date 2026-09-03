@@ -9892,7 +9892,7 @@ INSERT INTO `cet` VALUES (4935, 1, NULL, 'riddle', '谜', NULL, '情感心理', 
 
 INSERT INTO `cet` VALUES (4936, 1, '★', 'ruthless', '无情的', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (4937, 1, '★', 'salon', '沙龙', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4937, 1, '★', 'salon', '美容院、沙龙', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4938, 1, '★', 'sarcasm', '讽刺', NULL, NULL, NULL);
 
