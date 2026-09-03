@@ -9772,7 +9772,7 @@ INSERT INTO `cet` VALUES (4875, 1, '★', 'gland', '腺', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4876, 1, '★', 'gorge', '峡谷', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4877, 1, NULL, 'gravitation', '吸引作用', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4877, 1, NULL, 'gravitation', '万有引力', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4878, 1, '★', 'grill', '烤架', NULL, NULL, NULL);
 
