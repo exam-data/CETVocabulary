@@ -9704,7 +9704,7 @@ INSERT INTO `cet` VALUES (4841, 1, '★', 'cordial', '热忱的、诚恳的', NU
 
 INSERT INTO `cet` VALUES (4842, 1, '★', 'cosmopolitan', '世界性的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4843, 1, NULL, 'countdown', '倒数计秒', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4843, 1, NULL, 'countdown', '倒计时', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4844, 1, NULL, 'cracker', '爆竹、黑客', NULL, NULL, NULL);
 
