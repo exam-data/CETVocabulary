@@ -9694,7 +9694,7 @@ INSERT INTO `cet` VALUES (4836, 1, NULL, 'comrade', '同志', NULL, '人类与�
 
 INSERT INTO `cet` VALUES (4837, 1, '★', 'conceit', '自负', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4838, 1, '★', 'condolence', '慰问、吊唁', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4838, 1, '★', 'condolence', '吊唁', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4839, 1, '★', 'congregate', '聚集', NULL, NULL, NULL);
 
