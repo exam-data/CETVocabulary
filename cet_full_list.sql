@@ -9670,7 +9670,7 @@ INSERT INTO `cet` VALUES (4824, 1, '★', 'ceramic', '陶器', NULL, NULL, NULL)
 
 INSERT INTO `cet` VALUES (4825, 1, NULL, 'chopstick', '筷子', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4826, 1, '★', 'chord', '弦', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4826, 1, '★', 'chord', '和弦、弦', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4827, 1, '★', 'clamp', '夹子、夹住', NULL, NULL, NULL);
 
