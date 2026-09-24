@@ -9494,7 +9494,7 @@ INSERT INTO `cet` VALUES (4736, 2, '★', 'opaque', '不透明的', NULL, '抽�
 
 INSERT INTO `cet` VALUES (4737, 2, NULL, 'outing', '郊游', NULL, '交通旅行', NULL);
 
-INSERT INTO `cet` VALUES (4738, 2, '★', 'outlaw', '逃犯、被剥夺法律保护的人', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4738, 2, '★', 'outlaw', '法外之徒', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4739, 2, NULL, 'ox', '牛', NULL, '自然环境', NULL);
 
