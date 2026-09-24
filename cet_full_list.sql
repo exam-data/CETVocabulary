@@ -9464,7 +9464,7 @@ INSERT INTO `cet` VALUES (4721, 2, NULL, 'lavatory', '厕所', NULL, '日常生�
 
 INSERT INTO `cet` VALUES (4722, 2, NULL, 'legislate', '制定法律', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4723, 2, '★', 'lenient', '宽大的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4723, 2, '★', 'lenient', '宽容的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4724, 2, NULL, 'lick', '舔', NULL, '动作行为', '身体动作');
 
