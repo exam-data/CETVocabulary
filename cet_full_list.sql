@@ -9274,7 +9274,7 @@ INSERT INTO `cet` VALUES (4626, 3, '★', 'wholesome', '有益健康的', NULL, 
 
 INSERT INTO `cet` VALUES (4627, 3, NULL, 'zoology', '动物学', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4628, 2, '★', 'abort', '中止', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4628, 2, '★', 'abort', '中止、夭折', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4629, 2, '★', 'adjacent', '邻近的', NULL, '空间地点', NULL);
 
