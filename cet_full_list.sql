@@ -9580,7 +9580,7 @@ INSERT INTO `cet` VALUES (4779, 2, '★', 'trench', '沟', NULL, '空间地点',
 
 INSERT INTO `cet` VALUES (4780, 2, NULL, 'triangle', '三角形', NULL, '科学技术', NULL);
 
-INSERT INTO `cet` VALUES (4781, 2, '★', 'tribune', '民众领袖', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4781, 2, '★', 'tribune', '护民官、论坛报', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4782, 2, '★', 'turnout', '投票人数、到场人数', NULL, NULL, NULL);
 
