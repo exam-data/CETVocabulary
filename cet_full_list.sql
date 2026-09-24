@@ -9384,7 +9384,7 @@ INSERT INTO `cet` VALUES (4681, 2, '★', 'crow', '乌鸦', NULL, '自然环境'
 
 INSERT INTO `cet` VALUES (4682, 2, NULL, 'damp', '潮湿', NULL, '自然环境', NULL);
 
-INSERT INTO `cet` VALUES (4683, 2, '★', 'dart', '飞镖、投射', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4683, 2, '★', 'dart', '飞奔、飞镖', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4684, 2, '★', 'debut', '初次登场', NULL, '动作行为', '起始与终止');
 
