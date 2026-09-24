@@ -9340,7 +9340,7 @@ INSERT INTO `cet` VALUES (4659, 2, '★', 'cannon', '大炮', NULL, '政治法�
 
 INSERT INTO `cet` VALUES (4660, 2, '★', 'capsule', '胶囊', NULL, '健康医疗', NULL);
 
-INSERT INTO `cet` VALUES (4661, 2, NULL, 'cardboard', '厚纸板', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4661, 2, NULL, 'cardboard', '硬纸板', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4662, 2, '★', 'cardinal', '基本的', NULL, '文化宗教', NULL);
 
