@@ -9480,7 +9480,7 @@ INSERT INTO `cet` VALUES (4729, 2, '★', 'malignant', '恶性的', NULL, '健�
 
 INSERT INTO `cet` VALUES (4730, 2, '★', 'maternal', '母亲的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4731, 2, '★', 'mint', '薄荷', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4731, 2, '★', 'mint', '薄荷、铸币厂', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4732, 2, NULL, 'missile', '导弹', NULL, '政治法律', NULL);
 
