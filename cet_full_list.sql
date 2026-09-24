@@ -9286,7 +9286,7 @@ INSERT INTO `cet` VALUES (4632, 2, NULL, 'alley', '巷', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4633, 2, '★', 'alloy', '合金', NULL, '科学技术', NULL);
 
-INSERT INTO `cet` VALUES (4634, 2, '★', 'allure', '吸引、诱惑', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4634, 2, '★', 'allure', '吸引力', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4635, 2, NULL, 'amaze', '吃惊、惊讶', NULL, '情感心理', NULL);
 
