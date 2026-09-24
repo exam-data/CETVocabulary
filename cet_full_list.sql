@@ -8824,7 +8824,7 @@ INSERT INTO `cet` VALUES (4401, 4, '★', 'rash', '疹子、轻率的', NULL, '�
 
 INSERT INTO `cet` VALUES (4402, 4, NULL, 'recite', '背诵', NULL, '动作行为', '身体动作');
 
-INSERT INTO `cet` VALUES (4403, 4, NULL, 'refreshment', '恢复', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4403, 4, NULL, 'refreshment', '茶点、恢复', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4404, 4, '★', 'remnant', '残余', NULL, '抽象概念', '认知与抽象名词');
 
