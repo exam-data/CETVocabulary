@@ -9054,7 +9054,7 @@ INSERT INTO `cet` VALUES (4516, 3, NULL, 'freeway', '高速公路', NULL, NULL, 
 
 INSERT INTO `cet` VALUES (4517, 3, '★', 'gauge', '测量', 'gage', '科学技术', NULL);
 
-INSERT INTO `cet` VALUES (4518, 3, NULL, 'gloom', '黑暗、忧郁', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4518, 3, NULL, 'gloom', '忧郁', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4519, 3, NULL, 'gorgeous', '华丽的', NULL, '情感心理', NULL);
 
