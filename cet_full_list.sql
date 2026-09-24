@@ -8700,7 +8700,7 @@ INSERT INTO `cet` VALUES (4339, 4, '★', 'eloquent', '雄辩的', NULL, '情感
 
 INSERT INTO `cet` VALUES (4340, 4, '★', 'eminent', '著名的', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (4341, 4, '★', 'ensue', '跟着发生、继起', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4341, 4, '★', 'ensue', '继而发生', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4342, 4, '★', 'epoch', '时代', NULL, '时间日期', NULL);
 
