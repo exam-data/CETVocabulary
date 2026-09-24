@@ -9448,7 +9448,7 @@ INSERT INTO `cet` VALUES (4713, 2, '★', 'indebted', '负债的', NULL, NULL, N
 
 INSERT INTO `cet` VALUES (4714, 2, '★', 'infringe', '侵犯', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4715, 2, NULL, 'insane', '疯狂的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4715, 2, NULL, 'insane', '疯狂的、荒谬的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4716, 2, '★', 'invert', '颠倒、反转', NULL, '动作行为', '其他动作');
 
