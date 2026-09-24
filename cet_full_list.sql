@@ -9296,7 +9296,7 @@ INSERT INTO `cet` VALUES (4637, 2, '★', 'appease', '安抚', NULL, NULL, NULL)
 
 INSERT INTO `cet` VALUES (4638, 2, NULL, 'approximate', '接近', NULL, '抽象概念', '性质与评价');
 
-INSERT INTO `cet` VALUES (4639, 2, '★', 'ardent', '热心的、热情的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4639, 2, '★', 'ardent', '热切的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4640, 2, '★', 'arena', '竞技场', NULL, '运动娱乐', NULL);
 
