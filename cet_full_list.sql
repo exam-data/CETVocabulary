@@ -9648,7 +9648,7 @@ INSERT INTO `cet` VALUES (4813, 1, NULL, 'bribe', '贿赂', NULL, '动作行为'
 
 INSERT INTO `cet` VALUES (4814, 1, '★', 'brigade', '队、旅', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4815, 1, '★', 'brood', '孵、一窝', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4815, 1, '★', 'brood', '一窝雏鸟、忧思', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4816, 1, NULL, 'buffet', '自助餐', NULL, '食物营养', NULL);
 
