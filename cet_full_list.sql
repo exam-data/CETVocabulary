@@ -9572,7 +9572,7 @@ INSERT INTO `cet` VALUES (4775, 2, '★', 'terrace', '阳台、平台', NULL, NU
 
 INSERT INTO `cet` VALUES (4776, 2, '★', 'tertiary', '第三的、高等教育的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4777, 2, '★', 'tract', '束、小册子', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4777, 2, '★', 'tract', '小册子', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4778, 2, '★', 'trauma', '创伤', NULL, NULL, NULL);
 
