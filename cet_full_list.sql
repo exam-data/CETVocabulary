@@ -8974,7 +8974,7 @@ INSERT INTO `cet` VALUES (4476, 3, '★', 'bronze', '青铜', NULL, '科学技�
 
 INSERT INTO `cet` VALUES (4477, 3, NULL, 'brow', '眉毛', NULL, '人类与社会', NULL);
 
-INSERT INTO `cet` VALUES (4478, 3, NULL, 'buckle', '弯曲、皮带扣', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4478, 3, NULL, 'buckle', '皮带扣、扣紧', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4479, 3, NULL, 'bulletin', '公报', NULL, '文化宗教', NULL);
 
