@@ -9222,7 +9222,7 @@ INSERT INTO `cet` VALUES (4600, 3, NULL, 'sparkle', '闪耀', NULL, '动作行�
 
 INSERT INTO `cet` VALUES (4601, 3, '★', 'stagnate', '停滞不前', NULL, '动作行为', '变化趋势');
 
-INSERT INTO `cet` VALUES (4602, 3, '★', 'stigma', '耻辱、柱头', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4602, 3, '★', 'stigma', '耻辱', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4603, 3, '★', 'strangle', '勒死', NULL, NULL, NULL);
 
