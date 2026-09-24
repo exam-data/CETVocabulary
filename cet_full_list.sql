@@ -9302,7 +9302,7 @@ INSERT INTO `cet` VALUES (4640, 2, '★', 'arena', '竞技场', NULL, '运动娱
 
 INSERT INTO `cet` VALUES (4641, 2, '★', 'artery', '动脉', NULL, '人类与社会', NULL);
 
-INSERT INTO `cet` VALUES (4642, 2, '★', 'asylum', '精神病院、收容所', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4642, 2, '★', 'asylum', '（尤指政治）避难、精神病院', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4643, 2, '★', 'atlas', '地图集', NULL, NULL, NULL);
 
