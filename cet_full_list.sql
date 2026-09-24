@@ -9654,7 +9654,7 @@ INSERT INTO `cet` VALUES (4816, 1, NULL, 'buffet', '自助餐', NULL, '食物营
 
 INSERT INTO `cet` VALUES (4817, 1, NULL, 'bystander', '旁观者', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4818, 1, NULL, 'calf', '小牛', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4818, 1, NULL, 'calf', '小牛、小腿', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4819, 1, NULL, 'cane', '手杖', NULL, NULL, NULL);
 
