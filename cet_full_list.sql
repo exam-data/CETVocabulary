@@ -8784,7 +8784,7 @@ INSERT INTO `cet` VALUES (4381, 4, '★', 'nitrogen', '氮', NULL, '科学技术
 
 INSERT INTO `cet` VALUES (4382, 4, NULL, 'noun', '名词', NULL, '教育学习', NULL);
 
-INSERT INTO `cet` VALUES (4383, 4, '★', 'onset', '开始', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4383, 4, '★', 'onset', '发作', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4384, 4, '★', 'orthodox', '正统的', NULL, '文化宗教', NULL);
 
