@@ -9376,7 +9376,7 @@ INSERT INTO `cet` VALUES (4677, 2, '★', 'convoy', '护航、护送', NULL, NUL
 
 INSERT INTO `cet` VALUES (4678, 2, '★', 'cork', '软木', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4679, 2, '★', 'counterfeit', '假冒的、仿造', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4679, 2, '★', 'counterfeit', '伪造的、假冒的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4680, 2, '★', 'crate', '板条箱', NULL, NULL, NULL);
 
