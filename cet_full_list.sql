@@ -9608,7 +9608,7 @@ INSERT INTO `cet` VALUES (4793, 1, '★', 'amiable', '亲切的', NULL, '情感�
 
 INSERT INTO `cet` VALUES (4794, 1, '★', 'anguish', '痛苦', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (4795, 1, '★', 'annex', '附件', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4795, 1, '★', 'annex', '兼并', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4796, 1, '★', 'antonym', '反义词', NULL, NULL, NULL);
 
