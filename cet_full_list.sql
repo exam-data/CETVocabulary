@@ -9086,7 +9086,7 @@ INSERT INTO `cet` VALUES (4532, 3, '★', 'icon', '偶像、图标', NULL, '文�
 
 INSERT INTO `cet` VALUES (4533, 3, NULL, 'idiom', '成语', NULL, '文化宗教', NULL);
 
-INSERT INTO `cet` VALUES (4534, 3, NULL, 'immigrate', '移居入境', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4534, 3, NULL, 'immigrate', '移民、移居', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4535, 3, '★', 'intelligible', '可理解的', NULL, '抽象概念', '性质与评价');
 
