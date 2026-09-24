@@ -9544,7 +9544,7 @@ INSERT INTO `cet` VALUES (4761, 2, '★', 'slaughter', '屠杀', NULL, '动作�
 
 INSERT INTO `cet` VALUES (4762, 2, '★', 'socket', '插座', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4763, 2, '★', 'soothe', '安慰', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4763, 2, '★', 'soothe', '安抚、缓和', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4764, 2, '★', 'spaghetti', '意大利式细面条', NULL, NULL, NULL);
 
