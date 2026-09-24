@@ -9148,7 +9148,7 @@ INSERT INTO `cet` VALUES (4563, 3, '★', 'parachute', '降落伞', NULL, '交�
 
 INSERT INTO `cet` VALUES (4564, 3, '★', 'paradigm', '范例', NULL, '教育学习', NULL);
 
-INSERT INTO `cet` VALUES (4565, 3, '★', 'partition', '划分、分割', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4565, 3, '★', 'partition', '隔断、隔墙', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4566, 3, NULL, 'paste', '粘贴', NULL, '日常生活', NULL);
 
