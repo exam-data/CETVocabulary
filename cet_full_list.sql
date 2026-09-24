@@ -8996,7 +8996,7 @@ INSERT INTO `cet` VALUES (4487, 3, NULL, 'commence', '开始', NULL, '动作行�
 
 INSERT INTO `cet` VALUES (4488, 3, '★', 'complacent', '自满的', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4489, 3, '★', 'confide', '吐露、信赖', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4489, 3, '★', 'confide', '吐露、托付', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4490, 3, '★', 'decree', '法令、颁布', NULL, '政治法律', NULL);
 
