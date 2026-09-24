@@ -8908,7 +8908,7 @@ INSERT INTO `cet` VALUES (4443, 4, '★', 'uranium', '铀', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4444, 4, '★', 'urine', '尿', NULL, NULL, NULL);
 
-INSERT INTO `cet` VALUES (4445, 4, '★', 'vent', '发泄', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4445, 4, '★', 'vent', '通风孔、发泄', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4446, 4, '★', 'vicinity', '邻近', NULL, '空间地点', NULL);
 
