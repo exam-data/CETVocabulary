@@ -9092,7 +9092,7 @@ INSERT INTO `cet` VALUES (4535, 3, '★', 'intelligible', '可理解的', NULL, 
 
 INSERT INTO `cet` VALUES (4536, 3, NULL, 'jealous', '嫉妒的', NULL, '情感心理', NULL);
 
-INSERT INTO `cet` VALUES (4537, 3, '★', 'jerk', '笨蛋、猛拉', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4537, 3, '★', 'jerk', '混蛋、猛拉', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4538, 3, '★', 'lad', '小伙子', NULL, '人类与社会', NULL);
 
