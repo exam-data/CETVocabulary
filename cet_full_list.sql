@@ -8810,7 +8810,7 @@ INSERT INTO `cet` VALUES (4394, 4, NULL, 'plural', '复数', NULL, '教育学习
 
 INSERT INTO `cet` VALUES (4395, 4, '★', 'porch', '门廊', NULL, '空间地点', NULL);
 
-INSERT INTO `cet` VALUES (4396, 4, '★', 'potent', '有效的', NULL, NULL, NULL);
+INSERT INTO `cet` VALUES (4396, 4, '★', 'potent', '强效的', NULL, NULL, NULL);
 
 INSERT INTO `cet` VALUES (4397, 4, '★', 'pretext', '借口', NULL, '抽象概念', '认知与抽象名词');
 
